@@ -1,0 +1,59 @@
+body {
+    background-color: beige;
+    align-items: center;
+}
+.header{
+    padding: 20px;
+    background-color:coral;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    margin: 0;
+}
+
+.education {
+    margin-top: 50px;
+    padding: 15px;
+    background-color:aquamarine;
+}
+
+h4 {
+    font-size: 25px;
+    margin: 0;
+}
+
+div {
+    margin-top: auto;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.Hobbies_title {
+    color: red;
+    font-size: 30px;
+}
+.Hobbies {
+    color:darkred;
+    font-size: 30px;
+    list-style-position: inside;
+    margin-top: 30px;
+    padding-left: 0;
+}
+ul {
+    margin-left: 0;
+    padding-left: 0;
+}
+.Special {
+    color:blueviolet;
+    font-size: 35px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+.Special_content{
+    font-size: 22px;
+    text-align: center;
+    color:tomato;
+}
